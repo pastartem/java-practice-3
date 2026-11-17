@@ -37,7 +37,7 @@ public class Man {
         }
 
 
-        System.out.println("-ГРУППИРОВКА-");
+        System.out.println("ГРУППИРОВКА");
         for (List<String> group : anagramGroups.values()) {
             System.out.println(group);
         }
